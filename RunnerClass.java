@@ -42,7 +42,7 @@ public class RunnerClass
 	
 	public static void signIn()
 	{
-		System.out.println("Testing gitHUb");	
+		
 	}	//end signIn method
 	
 	public static void enterPurchase() throws FileNotFoundException
