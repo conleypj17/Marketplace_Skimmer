@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;	//importing PrintWriter
 
 
-public class RunnerClass 
+public class RunnerClass
 {
 	public static Scanner keyboard = new Scanner(System.in);	//creating global Scanner object
 	
@@ -42,7 +42,7 @@ public class RunnerClass
 	
 	public static void signIn()
 	{
-		System.out.println("test");	
+		System.out.println("Testing gitHUb");	
 	}	//end signIn method
 	
 	public static void enterPurchase() throws FileNotFoundException
